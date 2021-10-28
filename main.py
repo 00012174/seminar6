@@ -6,4 +6,5 @@ def test_is_valid(test):
 print(test_is_valid(2))
 print(test_is_valid("ryhrh"))
 print(test_is_valid(7))
+print(test_is_valid(1))
 
